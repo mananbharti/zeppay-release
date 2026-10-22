@@ -17,3 +17,10 @@ Official APK releases for **ZepPay**, the offline UPI payment app for Android.
 ZepPay runs UPI payments over `*99#` (no internet needed). On Jio it uses the UPI 123PAY call. Your UPI PIN is only ever entered in your bank's own prompt.
 
 iPhone? Use the web app: https://mananbharti.github.io/zeppay/ios/
+
+## Stable links (never change)
+
+- Android APK (always the latest build): https://github.com/mananbharti/zeppay-release/releases/latest/download/zeppay.apk
+- iPhone web app: https://mananbharti.github.io/zeppay/ios/
+
+Release process note: every new release must also upload the APK as an asset named exactly `zeppay.apk` so the stable link above keeps serving the newest build.
