@@ -2,9 +2,9 @@
 
 Official APK releases for **ZepPay**, the offline UPI payment app for Android.
 
-## Latest: v1.0.2
+## Latest: v1.0.3
 
-**[Download zeppay-v1.0.2.apk](https://github.com/mananbharti/zeppay-release/releases/download/v1.0.2/zeppay-v1.0.2.apk)**
+**[Download zeppay-v1.0.3.apk](https://github.com/mananbharti/zeppay-release/releases/download/v1.0.3/zeppay-v1.0.3.apk)**
 
 - Android 8.0+ (API 26). About 9 MB, signed.
 
